@@ -1,0 +1,5 @@
+flux:
+  git:
+    url: git@github.com:matty1979/kubernetes-ops-services.git
+    branch: master
+    path: "kubernetes/flux/releases/aws/dev"
